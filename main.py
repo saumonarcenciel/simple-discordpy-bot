@@ -24,4 +24,4 @@ async def ping(ctx):
 async def sushi(ctx):
     await ctx.send("https://img.freepik.com/premium-photo/set-sushi-rolls-with-eel-salmon-avocado-cucumber-nori-leaves-cream-cheese-inside-isolated-white_85601-187.jpg")
 
-bot.run("")
+bot.run("") #Mettez le token entre les # // Put the token between the #
